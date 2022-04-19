@@ -1,1 +1,1 @@
-{"base": "c966c4e", "parent": "debian/rolling/rmf_building_sim_gazebo_plugins", "previous": "6aa0a91", "trim": "", "trimbase": ""}
+{"base": "db70228", "parent": "debian/humble/rmf_building_sim_gazebo_plugins", "previous": "bc8822b", "trim": "", "trimbase": ""}
